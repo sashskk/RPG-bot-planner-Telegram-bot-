@@ -64,14 +64,8 @@ TOKEN=ваш_токен_от_BotFather
 
 ## 📸 Скриншоты
 ### Профиль
--
+![profile](Screenshots/Profile.jpg)
 ### Список квестов
--
+![quest-list](Screenshots/Quest-list.jpg)
 
 
-
-
-
-
-
-cd rpg-telegram-bot
