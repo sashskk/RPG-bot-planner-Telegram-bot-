@@ -64,8 +64,8 @@ TOKEN=ваш_токен_от_BotFather
 
 ## 📸 Скриншоты
 ### Профиль
-![profile](Screenshots/Profile.jpg)
+![profile](TelegrammBot/Screenshots/Profile.jpg)
 ### Список квестов
-![quest-list](Screenshots/Quest-list.jpg)
+![quest-list](TelegrammBot/Screenshots/Quest-list.jpg)
 
 
