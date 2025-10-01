@@ -1,0 +1,1 @@
+TOKEN = 'token of your telegram bot'
