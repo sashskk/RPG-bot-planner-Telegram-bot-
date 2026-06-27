@@ -62,10 +62,4 @@ TOKEN=ваш_токен_от_BotFather
 ```
 ### 4. Запуск бота
 
-## 📸 Скриншоты
-### Профиль
-![profile](TelegrammBot/Screenshots/Profile.jpg)
-### Список квестов
-![quest-list](TelegrammBot/Screenshots/Quest-list.jpg)
-
 
